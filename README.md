@@ -22,13 +22,14 @@ The course is aimed at postgraduate (M.Sc. or Ph.D.) students, postdocs, lecture
 ## Place
 
 Instituto de Investigação Interdisciplinar da Universidade de Coimbra
+
 Casa Costa Alemão - Pólo II
+
 Rua Dom Francisco de Lemos
+
 3030-789 COIMBRA
 
 [Map](https://www.google.com/maps/dir/%27%27/Casa+Costa+Alem%C3%A3o+-+P%C3%B3lo+II/@40.1848287,-8.4860759,12z/data=%214m8%214m7%211m0%211m5%211m1%211s0xd22f9eae6d5ac17:0x8d408fe84e9a5c0f%212m2%211d-8.416036%212d40.1848498)
-
-How to get there by public transport (bus):
 
 Two public bus lines get to Polo II: line 34 which departs from Polo I (old university in town centre) and line 38 which departs from Manuel de Braga Park (Portagem area next to river). Timetables available at www.smtuc.pt.
 
