@@ -21,23 +21,25 @@ The course is aimed at postgraduate (M.Sc. or Ph.D.) students, postdocs, lecture
 
 ## Place
 
-Instituto de Investigação Interdisciplinar da Universidade de Coimbra
+Laboratorio Didactico 1 (Sao Bento building)
 
-Casa Costa Alemão - Pólo II
+Departamento de Ciencias da Vida
 
-Rua Dom Francisco de Lemos
+Bairro Sousa Pinto, 3001-401 Sé Nova, Coimbra, Portugal
 
-3030-789 COIMBRA
+[Map](https://goo.gl/maps/PtYSeyuK7tt)
 
-[Map](https://www.google.com/maps/dir/%27%27/Casa+Costa+Alem%C3%A3o+-+P%C3%B3lo+II/@40.1848287,-8.4860759,12z/data=%214m8%214m7%211m0%211m5%211m1%211s0xd22f9eae6d5ac17:0x8d408fe84e9a5c0f%212m2%211d-8.416036%212d40.1848498)
-
-Two public bus lines get to Polo II: line 34 which departs from Polo I (old university in town centre) and line 38 which departs from Manuel de Braga Park (Portagem area next to river). Timetables available at www.smtuc.pt.
+Information about public bus lines: www.smtuc.pt.
 
 
 
 ## Course schedule (tentative)
 
-Monday 17 - Friday 21 September, 9:30 - 12:30 & 14:30 - 17:30. 
+Monday 17 - Friday 21 September
+
+9:00 - 13:00 & 15:00 - 17:30 (Monday to Thursday)
+
+9:00 - 13:00 (Friday)
 
 
 |   |           Morning                 |     Afternoon       |
