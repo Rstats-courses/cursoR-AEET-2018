@@ -1,31 +1,25 @@
 ---
 title: "Does sunshine make people happy?"
 author: "F. Rodriguez-Sanchez"
-date: "Thursday, 17 November 2016"
+date: "20 January 2020"
 output: word_document
-bibliography: reproduci.bib
-csl: agriculture-ecosystems-and-environment.csl
 ---
 
 
-Introduction
-------------
+## Introduction
 
-It is well known that individual well-being can be influenced by climatic conditions [@Guven_2012; @Dunn_2008]. However [@Drew2013], ...
+It is well known that individual well-being can be influenced by climatic conditions. However, ...
 
 
-Methods
--------
+## Methods
 
 ```{r echo=FALSE} 
 ## Read data
-data <- read.table("ReproducibleSci/data.txt", header=T)
-data[10,1] <- 11   # correct error
-data <- data[-36, ] # elimino este dato
+data <- read.table("data.txt", header = TRUE)
+#data[10,1] <- 11   # correct error
 
 # Fit linear model
 model <- lm(happiness ~ sunshine, data=data)
-summary(model)
 
 ```
 
@@ -33,36 +27,32 @@ We collected data on `r nrow(data)` individuals and fitted a linear model.
 
 
 
-Results
--------
+## Results
 
 We found that...
 
 ```{r echo=FALSE, results='asis'}
 # Print results
-library(xtable, quietly=T)
-library(knitr)
-kable(xtable(model)) 
+library(xtable, quietly = TRUE)
+knitr::kable(xtable(model)) 
 ```
 
 ```{r echo=FALSE}
 # Plot
-library(visreg, quietly=T)
-visreg(model)
+visreg::visreg(model)
 ```
 
-Discussion
-----------
+## Discussion
 
 These results confirm that sunshine is good for happiness (slope = `r coef(model)[2]`).
 
 
-Acknowledgements
-----------------
+## Acknowledgements
 
 Y. Xie, J. MacFarlane, Rstudio...
 
 
-## References
-
+```{r}
+sessionInfo()
+```
 
