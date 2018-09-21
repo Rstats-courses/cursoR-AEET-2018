@@ -35,5 +35,6 @@ install.packages(
     "sp",
     "tidyr",
     "vegan",
-    "visreg")
+    "visreg",
+    "taxize")
 )
